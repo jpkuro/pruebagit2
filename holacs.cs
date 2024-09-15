@@ -1,1 +1,1 @@
-print("hola git");
+print("edito el primer fichero de git");
